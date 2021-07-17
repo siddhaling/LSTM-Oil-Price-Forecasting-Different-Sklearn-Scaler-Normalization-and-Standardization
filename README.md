@@ -20,7 +20,7 @@ Both the time the forecasted and actual oil prices are plotted to visualize the 
 For multivariate oil data is present at
 https://github.com/siddhaling/Oil-Price-WTI-Database-For-Prediction-and-Forecasting
 
-Reseach is the published in 
+Research is published in 
 
 ![image](https://user-images.githubusercontent.com/33411128/124113948-0edc0700-da7d-11eb-87a5-0eeea1debd5a.png)
 
